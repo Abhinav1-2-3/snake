@@ -2,11 +2,11 @@
 
 
 
-# [Project Name] 🎯
+USELESS HEALTH CHECK_UP
 
 
-## Basic Details
-### Team Name: [Name]
+Hackathon Project
+### Team Name: SNAKE
 
 
 ### Team Members
