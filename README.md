@@ -30,7 +30,7 @@ For Software:
 
 Implementation
 For Software:
-jttps://fck-bay.vercel.app
+https://fck-bay.vercel.app
 
 
 Project Documentation
